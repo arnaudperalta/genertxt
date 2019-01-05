@@ -194,7 +194,7 @@ void print_help(void) {
   printf("mot à produire en fonction de NUMBER.\n");
   printf("--order=NUMBER ou -n NUMBER(par défaut 1) : change l'ordre des ");
   printf("n-uplets de la structure de données.\n");
-  printf("--seed=NUMBER ou -s NUMBER(par défaut 0) : fixe au lancement du");
+  printf("--seed=NUMBER ou -s NUMBER(par défaut 0) : fixe au lancement du ");
   printf("programme le germe du générateur\npseudo-aléatoire à NUMBER.\n");
 }
 
