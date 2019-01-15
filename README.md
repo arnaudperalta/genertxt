@@ -14,3 +14,27 @@ Génère un texte a partir d'un texte donné sur l'entrée standard grâce à un
 à NUMBER.
 
 ## Exemple
+Sans paramètre de lancement
+
+![alt text](https://i.imgur.com/oIRwike.png)
+
+L'option display-table
+
+![alt text](https://i.imgur.com/7vzBQMG.png)
+
+avec l'option order
+
+![alt text](https://i.imgur.com/qHXtgfS.png)
+
+L'option seed
+
+![alt text](https://i.imgur.com/WJNVhJZ.png)
+
+L'option limit
+
+![alt text](https://i.imgur.com/5AgP4M3.png)
+![alt text](https://i.imgur.com/GL64st0.png)
+
+Valgrind
+
+![alt text](https://i.imgur.com/2rxa20o.png)
